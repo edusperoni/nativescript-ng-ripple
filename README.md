@@ -1,1 +1,1 @@
-# THIS REPO HAS MOVED TO [nativescript-ripple]("https://github.com/edusperoni/nativescript-ripple")
+# THIS REPO HAS MOVED TO [nativescript-ripple](https://github.com/edusperoni/nativescript-ripple)
